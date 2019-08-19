@@ -1,4 +1,8 @@
 # Deep Learning for Sequence Modelling and Time Series
+
+Mini Degree DLI E-Learning: 
+https://elearning.academy-dli.com/p/mini_degree_deep_learning_for_squence_modelling_and_time_series1
+
 This is a collection of examples and exercises concerning Deep Learning and Sequence Modelling realized exclusively for educational purposes.
 <br><br>
 
